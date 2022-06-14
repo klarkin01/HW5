@@ -1,0 +1,22 @@
+{
+    "my_degrees": [
+            {
+                "school": "Bucks County Community College",
+                "program":"Liberal Arts",
+                "type": "AA",
+                "year": "2007"
+            },
+            {
+                "school": "Lyndon State College",
+                "program":"Atmospheric Science and Meteorology",
+                "type": "BS",
+                "year": "2015"
+            },
+            {
+                "school": "Boston University",
+                "program":"Software Development",
+                "type": "MS",
+                "year": "2023 - Expected"
+            }
+    ]
+}
